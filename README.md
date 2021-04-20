@@ -3,6 +3,7 @@
 # Description
 
 Starting with data about stock prices for the start and close of each day from 2014-2016, the goal of the VBA-Challenge is to give a summary about the changes in each stock price for every year. The summary will include:
+
       - Change in the stock price from when the stock first opened to the end of the year
       - Percentage change in the stock price
       - Total stock volume
